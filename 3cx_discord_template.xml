@@ -1,0 +1,15 @@
+<Scenario Id="ReportCall" Type="REST">
+    <Request 
+        Url="[WebhookUrl]?secret=[WebhookSecret]" 
+        RequestType="Post" 
+        RequestContentType="application/json">
+        <PostValues>
+            <Value Key="extension">[AgentExtension]</Value>
+            <Value Key="caller_number">[Number]</Value>
+            <Value Key="duration">[CallDuration]</Value>
+            <Value Key="call_id">[CallID]</Value>
+            <Value Key="agent_name">[AgentFirstName] [AgentLastName]</Value>
+            <Value Key="call_type">[CallType]</Value>
+        </PostValues>
+    </Request>
+</Scenario>
