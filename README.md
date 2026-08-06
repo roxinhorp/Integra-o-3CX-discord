@@ -116,4 +116,11 @@ Atualmente, o bot tenta encontrar o usuário do Discord pelo `agent_name` recebi
     *   Verifique os logs do bot para mensagens de erro.
 -   **Bot não envia DM:** Verifique se o bot tem permissão para enviar mensagens no servidor e se o usuário do Discord não bloqueou o bot ou desativou DMs de membros do servidor.
 
----
+---<img width="304" height="422" alt="image" src="https://github.com/user-attachments/assets/5a576c3f-0f6d-46a1-98ad-02d35ec87e80" />
+
+<img width="468" height="174" alt="image" src="https://github.com/user-attachments/assets/6ae57f17-c283-49a6-995c-d421b8dfdd5c" />
+
+<img width="396" height="320" alt="image" src="https://github.com/user-attachments/assets/1bbec759-bae1-48d9-b30e-87635f0d7de7" />
+
+
+
